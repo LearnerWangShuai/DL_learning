@@ -1,0 +1,7 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Locally generated training outputs
+q_table.json
+*.log
